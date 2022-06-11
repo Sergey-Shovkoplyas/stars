@@ -4,7 +4,7 @@ class SomeTest extends Component {
   render() {
     return (
       <div>
-        Hello, Whis is a test component!!!!
+        Hello world!!!
       </div>
     );
   }
